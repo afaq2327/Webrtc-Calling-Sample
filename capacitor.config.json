@@ -1,0 +1,13 @@
+{
+  "appId": "com.webrtc.android",
+  "appName": "webrtc",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
